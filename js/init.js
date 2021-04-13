@@ -1,10 +1,9 @@
 // @ts-ignore
 firebase.initializeApp({
-  apiKey: "AIzaSyDfJiJW2_AW1p-PKmt3w6h7kWPc9VmvzYM",
-  authDomain: "gilpgiotx.firebaseapp.com",
-  databaseURL: "https://gilpgiotx.firebaseio.com",
-  projectId: "gilpgiotx",
-  storageBucket: "gilpgiotx.appspot.com",
-  messagingSenderId: "362186415969",
-  appId: "1:362186415969:web:e732f8610cfdae9544ef20"
+  apiKey: "AIzaSyAwc0TaPEKMi6gwnD-kmUk5eI_OyZ8ME5s",
+    authDomain: "marh51m.firebaseapp.com",
+    projectId: "marh51m",
+    storageBucket: "marh51m.appspot.com",
+    messagingSenderId: "465311792906",
+    appId: "1:465311792906:web:20ef649888b85016b244f3"
 });
