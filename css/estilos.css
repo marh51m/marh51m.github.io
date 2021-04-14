@@ -1,28 +1,53 @@
 body {
   font-family: sans-serif;
   text-align: center;
-  background-color:#CFD8DC;
-  
+  background-color: #CFD8DC;
+
 }
 
 .contenido {
   display: inline-block;
   text-align: start;
+  
 }
 
-head{
-  background-color:#455A64;
-  color: #FFFFFF;
+.img{
+  width: 2rem;
 }
-
 meter,
 input[type=range],
 output {
   display: block;
 }
 
+.cabecera{
+  background-color:#607D8B;
+  color: whitesmoke;
+  padding-top: 3vw;
+  padding-bottom: 3vw;
+}
+
+.boton1{
+  border-radius: 10px;
+  padding:10% ;
+  transition: all .3s cubic-bezier(0.67, 0.17, 0.40, 0.83);
+  background-color: #00BCD4;
+  
+}
+a{
+  text-decoration: none;
+  
+}
+A:visited {
+  color: black;  
+  font-family: arial; 
+  text-decoration: none }
+
+
+
 mi-footer {
   display: block;
   margin: 1rem 0;
   font-size: small;
+  
 }
