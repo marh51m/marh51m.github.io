@@ -8,6 +8,11 @@ body {
   text-align: start;
 }
 
+head{
+  background-color:#455A64;
+  color: #FFFFFF;
+}
+
 meter,
 input[type=range],
 output {
